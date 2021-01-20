@@ -1,2 +1,3 @@
-# dad_jokes
-dad joke generator with gpt-2!
+## dad joke generator
+
+dad joke generator using GPT-2 and Google Colab
